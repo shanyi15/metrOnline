@@ -1,0 +1,16 @@
+.logo {
+  height: 34px;
+  width: 34px;
+  vertical-align: left;
+  float: left;
+}
+
+.product-name {
+  text-align: left;
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.svg-logo {
+  filter: invert(94%) sepia(6%) saturate(22%) hue-rotate(230deg) brightness(105%) contrast(104%);
+}
